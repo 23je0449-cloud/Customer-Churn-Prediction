@@ -63,7 +63,7 @@ README.md
 ```
 
 ## 👨‍💻 Author
-**Rameshwar Kawade**
+**Yash Kamble**
 ## 📸 Project Screenshots
 
 ### Feature Importance
